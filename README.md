@@ -1,5 +1,9 @@
 # ecom-ops-mcp
 
+## 90-Second Live Demo
+
+[Watch the demo on Loom](https://www.loom.com/share/24de580a36dd4842b996bed71364fb83)
+
 Production MCP server for querying ecommerce customers, products, orders, inventory, and revenue through stdio or stateless HTTP.
 
 ## Architecture
